@@ -1,4 +1,4 @@
-function convertToHandshake() {
+function convertToHandshake () {
   const number = parseInt(document.getElementById('numberInput').value)
   const binary = number.toString(2).split('').reverse()
   const handshake = []
@@ -15,3 +15,5 @@ function convertToHandshake() {
 
   document.getElementById('handshake').innerText = handshake.join(', ')
 }
+
+convertToHandshake()
