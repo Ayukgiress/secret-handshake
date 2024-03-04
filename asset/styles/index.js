@@ -1,5 +1,5 @@
 function convertToHandshake () {
-  const number = parseInt(document.getElementById('numberInput').value)
+  const number = parseInt(document.getElementById('number-input').value)
   const binary = number.toString(2).split('').reverse()
   const handshake = []
 

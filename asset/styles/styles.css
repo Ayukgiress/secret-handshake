@@ -22,7 +22,7 @@ body {
   font-size: 18px;
 }
 
-#numberInput {
+#number-input {
   display: flex;
   align-items: center;
   justify-content: center;
