@@ -13,7 +13,4 @@ index.js: Contains the JavaScript code for converting numbers to secret handshak
 How to Run
 Simply open the index.html file in a web browser to use the Secret Handshake app.
 
-#### photos:
-
-
 Feel free to explore and enjoy shaking hands secretly!
